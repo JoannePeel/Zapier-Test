@@ -2,7 +2,7 @@
 
 # Zapier-Test
 
-I have created an integration with Zapier to post my new repos automatically to Linkedin
+I have created an integration with [Zapier](https://zapier.com/app/home) to post my new repos automatically to Linkedin
 Zapier is a web automation app. With Zapier you can build Zaps which can automate parts of your business or life.
 
 A Zap is a blueprint for a task you want to do over and over. In words, a Zap looks like this: "When I get a new thing in A, do this other thing in B." The first part is the Trigger and the second part is the Action.
